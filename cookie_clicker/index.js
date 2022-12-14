@@ -12,4 +12,4 @@ button.addEventListener('click', function (){
     const cookieCounter = document.querySelector('h2');
     // you are add text to the cookieCounter
     cookieCounter.textContent = "clicked:" + counter ;
-})
+});
