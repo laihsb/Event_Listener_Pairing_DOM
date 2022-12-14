@@ -2,12 +2,16 @@
 
 
 //selecting the elements
-const paragraph = document.querySelector('p');
+const paragraph = document.body.querySelector('p');
 paragraph.style.fontSize = '20px';
-const bigger = document.getElementsByClassName('bigger');
+let count = 0;
+let bigger = document.body.querySelector('#bigger');
 
 bigger.addEventListener('click', function(){
-    bigger.style.fontSize = '70px';
+    console.log('i was clicked');
+     document.paragraph.style.fontSize = '70px';
+}); 
 
-})
+let fontsize = count + 'px'
+
 
