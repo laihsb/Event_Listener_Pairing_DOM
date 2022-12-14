@@ -1,0 +1,1 @@
+//Your website should show an image of a crane alongside four buttons. Each button corresponds to a cardinal direction (up, down, left, right), and will move the crane in that direction when clicked.
