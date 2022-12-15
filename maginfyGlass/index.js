@@ -2,7 +2,7 @@
 
 
 // assigning values 
-let count = 0;
+let count = 15;
 function countFont(count){
     
 }
